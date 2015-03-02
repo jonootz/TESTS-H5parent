@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="topNavHTML5"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="3/1/2015 10:26:32 PM"
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="tripaneHTML5"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt=""
+      LastPublished="" />
+  </Targets>
+</CatapultBatchTarget>
