@@ -7,5 +7,7 @@
   <TocEntry
     Title="Child"
     Link="../../../topNavChild/topNavChild.flprj#HTML5ChildTripane"
+    AutoMerge="before-head"
+    ReplaceMergeNode="false"
     AbsoluteLink="file:///C:/Users/Harkins/Desktop/TESTS/topNavChild/topNavChild.flprj#HTML5ChildTripane" />
 </CatapultToc>
