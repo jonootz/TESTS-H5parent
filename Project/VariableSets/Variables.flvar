@@ -1,5 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
-	<Variable Comment="" Name="CompanyName">MadCap Software</Variable>
-	<Variable Comment="" Name="PhoneNumber">858 123 4567</Variable>	
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Software</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="File Save"
+    Comment=""
+    Type="DateTimeFileSaved"
+    LastUpdated="2015-03-02T20:05:53.1211064-08:00">"File Save" hh:mm ss tt dddd, MMMM yyyy</Variable>
+  <Variable
+    Name="Creation Date"
+    Comment=""
+    Type="DateTimeFileCreated"
+    LastUpdated="2015-03-02T20:05:55.8812643-08:00">"File Creation" hh:mm ss tt dddd, MMMM yyyy</Variable>
+  <Variable
+    Name="OnBuild"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-03-02T20:05:57.8093746-08:00">"On Build" hh:mm ss tt dddd, MMMM yyyy</Variable>
+  <Variable
+    Name="Project Save"
+    Comment=""
+    Type="DateTimeProjectSaved"
+    LastUpdated="2015-03-02T20:07:40.2562342-08:00">"Project Save" hh:mm ss tt dddd, MMMM yyyy</Variable>
 </CatapultVariableSet>

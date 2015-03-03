@@ -7,7 +7,8 @@
   GlossaryTermConversion="marked"
   Skin="/Project/Skins/H5Tripane.flskn"
   ServerEnabled="true"
-  MasterToc="/Project/TOCs/tripaneMaster.fltoc">
+  MasterToc="/Project/TOCs/tripaneMaster.fltoc"
+  MasterPage="/Content/Resources/NewPage.flmsp">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
